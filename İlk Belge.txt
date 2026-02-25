@@ -1,1 +1,8 @@
 İlk Belge Yazısı
+Yeni Düzenleme
+
+void fonksiyon(){
+.
+.
+.
+.
